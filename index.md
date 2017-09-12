@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-<body>
+<body style="background-color:black;>
 	<p align="center">Undertale Review</p>
 	<p align="center"> <img src = "assets/undertale.png"></p>
 	undertale
